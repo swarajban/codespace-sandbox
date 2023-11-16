@@ -45,7 +45,7 @@ def main():
             },
             {
                 "role": "user",
-                "content": "Get me a list of 2 progamming languages",
+                "content": "Get me a list of 5 fruits",
             }
         ],
         tools=tools,
